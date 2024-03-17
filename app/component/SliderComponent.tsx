@@ -5,7 +5,7 @@ const SliderComponent = ()=>{
     return (
         <>
             <section className="h-[50vh] container mx-auto">
-                <h1 className="uppercase text-3xl font-extrabold pl-48 mb-4">USEFUL CONTENTS</h1>
+                
                 <Carousel>
                     <div className="flex w-full justify-evenly gap-2">
                         <Card

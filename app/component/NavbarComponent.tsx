@@ -24,12 +24,12 @@ function NavbarComponent() {
                         </NavbarLink>
                         <NavbarLink href="/course"
                                     className="text-lg text-white hover:text-primary lg:hover:text-white">Course</NavbarLink>
-                        <NavbarLink href="/news"
+                        <NavbarLink href="/itnews"
                                     className="text-lg text-white hover:text-primary lg:hover:text-white">IT
                             News</NavbarLink>
                         <NavbarLink href="/job" className="text-lg text-white hover:text-primary lg:hover:text-white">Job
                             Opportunity</NavbarLink>
-                        <NavbarLink href="/about"
+                        <NavbarLink href="/aboutUS"
                                     className="text-lg text-white hover: ">About
                             Us</NavbarLink>
                     </NavbarCollapse>
