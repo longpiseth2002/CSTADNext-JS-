@@ -5,7 +5,7 @@ import Link from "next/link";
 function NavbarComponent() {
   return (
 
-            <header className=" bg-blue-600 py-2 px-4">
+            <header className=" sticky top-0 z-50 bg-blue-600 py-2 px-4">
                 <Navbar className="container ml-0 bg-blue-600">
                     <NavbarToggle className="text-white border-0 sm:left-0 delay-75"/>
                     <NavbarBrand as={Link} href="/">
